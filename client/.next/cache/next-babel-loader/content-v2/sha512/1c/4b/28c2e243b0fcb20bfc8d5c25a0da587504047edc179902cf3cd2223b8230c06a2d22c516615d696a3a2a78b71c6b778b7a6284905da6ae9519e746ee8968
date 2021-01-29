@@ -1,0 +1,1 @@
+{"ast":null,"code":"// export default () => {\n//   return <h1>Banana2</h1>;\n// };","map":{"version":3,"sources":["C:/microservicesUdemy/ticketingApp/client/pages/banana.js"],"names":[],"mappings":"AAAA;AACA;AACA","sourcesContent":["// export default () => {\r\n//   return <h1>Banana2</h1>;\r\n// };\r\n"]},"metadata":{},"sourceType":"script"}
